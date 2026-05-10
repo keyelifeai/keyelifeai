@@ -1,4 +1,3 @@
-```markdown
 ---
 name: Keye (科爷)
 description: Observer. Analyst. AI Practitioner. | 过滤噪音、剥开炒作 → AI真相、实战、底层逻辑
@@ -76,6 +75,3 @@ Cutting through the noise to find what actually works. Real experiments, real nu
 ⭐ **Philosophy**: When AI makes completeness near-free, always do the complete thing. Boil the lake.
 
 ---
-
-*Last updated: May 2026*
-```
