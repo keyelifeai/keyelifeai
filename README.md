@@ -31,20 +31,15 @@ Cutting through the noise to find what actually works. Real experiments, real nu
 
 ### 📚 Open Resources
 - **[keye-open-prompts]** - Curated prompt library
-- **[keye-claude-skills]** - Claude Code skills collection
-- **[keye-open-templates]** - Content templates library
+- **[keye-open-skills]** - Useful Agent skills collection
 - **[keye-Brand-5.0-Lab]** - AI driven brand management
 
 ### 🔧 Tools
-- **[keye-article-pipeline]** - AI-powered article workflow
-- **[keye-markdown-tools]** - Markdown processing tools
+- **[keye-markdown-mastery]** - Markdown learning notes and processing tools
 - **[keye-web-scraper]** - Web scraping utilities
 
 ### 🤖 Learning
-- **[keye-ai-workflows]** - Practical AI workflows
 - **[keye-ai-learning-path]** - AI learning resources
-- **[keye-prompt-library]** - Personal prompt collection
-- **[keye-markdown-mastery]** - Markdown 101 guideline
 
 ---
 
